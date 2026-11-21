@@ -17,6 +17,7 @@ To win title by adverse possession in Minnesota, the claimant must show, by **cl
 | 541.01 | No title by occupancy to public ways, levees, squares, other public-use ground, or cemetery land. | Quoted from the Revisor. |
 | 559.23 | Procedure: any owner or interested person may sue the adjoining owner to have boundary lines established. The court "shall determine any adverse claims" needed for a complete settlement of the lines. Registered land goes through 508.671. The decree is recorded with the county recorder after the county auditor enters it in the transfer record. | Quoted in part, paraphrased in part, from the Revisor. Last amended 2017 c 16 s 20. |
 | 508.671 | Court procedure to fix boundaries of registered land (and of unregistered land when the relief affects adjoining registered land): verified petition, licensed survey and plat, examiner of titles review, summons to interested persons, court sets judicial landmarks under 559.25, and the final order and plat are recorded. It does not mention adverse possession or practical location. | Quoted in part, paraphrased in part, from the Revisor. Last amended 2022 c 37 s 4. |
+| 559.25 | The boundary judgment must locate the lines "by reference to well-known permanent landmarks." The court "may" (if in the parties' interest) direct a surveyor to set a permanent stone or iron marker cut with "Judicial Landmark," and the surveyor reports to the court. In registered-land proceedings, 508.671 uses stricter wording ("shall ... direct the establishment of judicial landmarks"). | Quoted in part, paraphrased in part, from the Revisor. Last changed 1986 c 444. The may/shall comparison is my reading, not confirmed by case law. [Likely] |
 
 The statute does NOT list the five elements. Those come from case law.
 
@@ -49,10 +50,9 @@ Correction: 559.23 is the lawsuit procedure for fixing a boundary. It does NOT u
 ## Limits
 - Ehle is from 1972 and Rogers from 1999. Later cases may have changed or refined the rules.
 - Subsequent history of both cases was not checked.
-- Only 541.02, 541.01, 508.02, 559.23, and 508.671 were read. Later session laws after the Revisor's 2026 compilation were not checked.
+- Only 541.02, 541.01, 508.02, 559.23, 508.671, and 559.25 were read. Later session laws after the Revisor's 2026 compilation were not checked.
 
 ## Missing items
-- [MINN. STAT. 559.25 TEXT (JUDICIAL LANDMARKS): NOT RETRIEVED]
 - [CASE LAW ON THE COMMON LAW PRACTICAL LOCATION OF BOUNDARIES DOCTRINE: NOT SEARCHED]
 - [CASE LAW AFTER 1999: NOT SEARCHED]
 - [SUBSEQUENT HISTORY OF EHLE AND ROGERS: NOT CHECKED]
